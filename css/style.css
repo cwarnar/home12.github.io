@@ -1,0 +1,112 @@
+header {
+    background-image: url("../img/gezond.jpg");    
+    text-align: center; 
+    padding: 1px;
+    margin-bottom: 5px; 
+    background-color: #8FAA71;  
+}
+h1 {
+    font-size: 80px;
+    color:#d4118c;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+    width: 640px;
+
+}
+td {
+    text-align: center;
+    width: 80px;
+    height: 100px;    
+}
+#cel1 {
+    background-color: #A58A2C;
+    color: #3E171E;
+}
+#cel2 {
+    background-image: url("../img/passievrucht.jpeg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#cel3 {
+    background-color: #8FAA71;
+    color: #1E280F;
+}
+#cel4 {
+    background-image: url("../img/spinazie.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#cel5 {
+    background-color: #C00013;
+    color: #F6B443;
+}
+#cel6 {
+    background-image: url("../img/aardbei.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#cel7 {
+    background-color: #557815;
+    color: #D3E096;
+}
+#cel8 {
+    background-image: url("../img/brocoli.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#cel9 {
+    background-color: #C4DD43;
+    color: #567414;
+}
+#cel10 {
+    background-image: url("../img/appel.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#cel11 {
+    background-color: #99112F;
+    color: #C0A0A2;
+}
+#cel12 {
+    background-image: url("../img/bieten.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#cel13 {
+    background-color: #FF8E00;
+    color: #FFDE83;
+}
+#cel14 {
+    background-image: url("../img/sinasappel.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#cel15 {
+    background-color: #B20003;
+    color: #728F81;
+}
+#cel16 {
+    background-image: url("../img/tomaten.jpeg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+footer{
+    background-color:#d4118c;
+    margin-top: 5px;
+    color: #D3E096;
+    text-align: center;
+;
+}
+footer a {
+    color: #D3E096;
+}
